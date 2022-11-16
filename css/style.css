@@ -1,0 +1,55 @@
+body {
+    background-color:#544478;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    margin-right: 40%;
+    margin-left: 45%;
+    margin-bottom: 50px;
+}
+.container {
+    max-width: 500px;
+    justify-content: center;
+    margin: 0 auto;
+    transform: translate(center);
+}
+.icones {
+    text-decoration: none;
+    width: 25px;
+    margin: 3px;
+}
+.icones:hover {
+    background-color: #a7cdf8;
+    width: 30px;
+    height: 30px;
+    border-radius: 2px;
+}
+
+.resultado {
+    background-color:#fafafa;
+    border-radius: 5px;
+    margin-top: 9px;
+    color: black;
+    max-width: 475px;
+    justify-content: center;
+    margin: 0 auto;
+    transform: translate(center);
+}
+
+.dataImput {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+footer {
+    background-color: #f3ffcf;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    justify-content: center;
+}
